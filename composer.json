@@ -1,0 +1,11 @@
+{
+    "name": "polina/package",
+    "description": "some",
+    "authors": [
+        {
+            "name": "Polina Kosenko",
+            "email": "polkatochka@mail.ru"
+        }
+    ],
+    "require": {}
+}
